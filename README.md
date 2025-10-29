@@ -1,2 +1,2 @@
-# Levantamento-de-requisitos-sistema-de-gerenciamento-de-hot-is-
+# Levantamento-de-requisitos-sistema-de-gerenciamento-de-hoteis-
 Estágio programação 
